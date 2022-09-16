@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The reading section includes the overview for each lecture and related
+  readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

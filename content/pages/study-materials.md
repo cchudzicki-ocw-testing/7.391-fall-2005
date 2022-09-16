@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The study materials section includes information on biochemistry molecules
+  and shapes, shape game exercise and key.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
